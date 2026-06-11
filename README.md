@@ -39,3 +39,5 @@ Join the conversation in the [Insert Link to Discord Channel Here] to debate the
 ---
 *Built for the community, by the community.*
 
+join are Discord:https://discord.gg/drH9eGrhQ
+
