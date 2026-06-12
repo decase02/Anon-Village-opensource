@@ -38,5 +38,3 @@ All prospective residents and participants are vetted through our secure channel
 
 ---
 *Operational planning and architectural overview for the Enclave.*
-
-* **Section 6.04 - Dissolution & Liquidation:** In the event of the dissolution of the Enclave or the liquidation of its physical or digital assets, all capital and infrastructure revert entirely to the registered legal entity and its designated Representative. Villagers hold no claim to liquidation dividends.
